@@ -1,0 +1,2150 @@
+[
+  {
+    "slug": "chief-executives-and-managing-directors",
+    "title": "Chief Executives and Managing Directors",
+    "exposure": 7,
+    "rationale": "Chief executives perform predominantly knowledge work \u2014 strategic planning, policy formulation, and organisational direction \u2014 all of which are digital and increasingly AI-augmentable. However, leadership, stakeholder relationships, and high-stakes decision-making provide some protection."
+  },
+  {
+    "slug": "general-managers",
+    "title": "General Managers",
+    "exposure": 7,
+    "rationale": "General managers coordinate operations through digital communication, planning, and analysis. AI can assist with reporting, forecasting, and operational decisions, but human judgement and leadership remain essential."
+  },
+  {
+    "slug": "legislators",
+    "title": "Legislators",
+    "exposure": 5,
+    "rationale": "Legislators require public trust, political judgement, and constituency relationships. While policy analysis can be AI-assisted, the core political and representational work requires human presence and judgement."
+  },
+  {
+    "slug": "aquaculture-farmers",
+    "title": "Aquaculture Farmers",
+    "exposure": 2,
+    "rationale": "Aquaculture farming involves hands-on management of fish stocks, water quality, and physical infrastructure in variable environments. AI may assist with monitoring but cannot replace physical farm work."
+  },
+  {
+    "slug": "crop-farmers",
+    "title": "Crop Farmers",
+    "exposure": 2,
+    "rationale": "Crop farming is primarily physical outdoor work \u2014 planting, tending, harvesting. Precision agriculture and AI monitoring are growing, but the core manual and environmental work remains human-dependent."
+  },
+  {
+    "slug": "livestock-farmers",
+    "title": "Livestock Farmers",
+    "exposure": 2,
+    "rationale": "Livestock farming requires physical presence with animals, hands-on animal husbandry, and work in unpredictable outdoor environments. AI has minimal impact on core duties."
+  },
+  {
+    "slug": "mixed-crop-and-livestock-farmers",
+    "title": "Mixed Crop and Livestock Farmers",
+    "exposure": 2,
+    "rationale": "Mixed farming combines crop and livestock work, both highly physical. AI may help with farm management software but doesn't touch the core hands-on work."
+  },
+  {
+    "slug": "advertising-public-relations-and-sales-manager",
+    "title": "Advertising, Public Relations and Sales Manager",
+    "exposure": 7,
+    "rationale": "Advertising and sales management involves strategy, campaign planning, and market analysis \u2014 all increasingly AI-augmentable. AI can generate content, analyse markets, and optimise campaigns, though client relationships remain important."
+  },
+  {
+    "slug": "corporate-services-managers",
+    "title": "Corporate Services Managers",
+    "exposure": 7,
+    "rationale": "Corporate services management is predominantly knowledge work involving planning, compliance, and administration \u2014 areas where AI tools are already proving highly capable."
+  },
+  {
+    "slug": "finance-managers",
+    "title": "Finance Managers",
+    "exposure": 7,
+    "rationale": "Finance management involves financial analysis, budgeting, forecasting, and reporting \u2014 all digital tasks where AI excels. Human oversight and strategic judgement remain important."
+  },
+  {
+    "slug": "human-resource-managers",
+    "title": "Human Resource Managers",
+    "exposure": 7,
+    "rationale": "HR management combines strategic planning and policy development (highly AI-augmentable) with interpersonal elements like employee relations and leadership that provide some protection."
+  },
+  {
+    "slug": "policy-and-planning-managers",
+    "title": "Policy and Planning Managers",
+    "exposure": 7,
+    "rationale": "Policy and planning managers do predominantly digital knowledge work \u2014 research, analysis, policy drafting \u2014 all areas where AI is rapidly improving. Strategic judgement and stakeholder management offer some insulation."
+  },
+  {
+    "slug": "research-and-development-managers",
+    "title": "Research and Development Managers",
+    "exposure": 7,
+    "rationale": "R&D management involves coordinating research agendas and innovation strategies. While AI can accelerate research itself, directing and prioritising research still requires human expertise."
+  },
+  {
+    "slug": "construction-managers",
+    "title": "Construction Managers",
+    "exposure": 4,
+    "rationale": "Construction managers split time between on-site supervision (physical presence required) and planning/scheduling/documentation (increasingly AI-augmentable). The physical site presence component provides protection."
+  },
+  {
+    "slug": "engineering-managers",
+    "title": "Engineering Managers",
+    "exposure": 6,
+    "rationale": "Engineering managers oversee technical projects with significant digital planning and analysis components. Site visits and technical oversight provide some physical presence requirements."
+  },
+  {
+    "slug": "importers-exporters-and-wholesalers",
+    "title": "Importers, Exporters and Wholesalers",
+    "exposure": 6,
+    "rationale": "Import/export and wholesale management involves supply chain coordination, market analysis, and logistics \u2014 increasingly AI-optimisable \u2014 though relationship management and negotiation remain human skills."
+  },
+  {
+    "slug": "manufacturers",
+    "title": "Manufacturers",
+    "exposure": 5,
+    "rationale": "Manufacturing managers oversee physical production processes while also handling planning and coordination. The physical plant presence requirement provides moderate protection."
+  },
+  {
+    "slug": "production-managers",
+    "title": "Production Managers",
+    "exposure": 5,
+    "rationale": "Production managers need physical presence on production floors while also doing planning and scheduling that AI can assist with. The split between physical and digital work provides moderate exposure."
+  },
+  {
+    "slug": "supply-distribution-and-procurement-managers",
+    "title": "Supply, Distribution and Procurement Managers",
+    "exposure": 7,
+    "rationale": "Supply chain and procurement management is heavily data-driven \u2014 demand forecasting, logistics optimisation, and vendor analysis are all areas where AI excels."
+  },
+  {
+    "slug": "child-care-centre-managers",
+    "title": "Child Care Centre Managers",
+    "exposure": 4,
+    "rationale": "Child care centre management combines administrative tasks (AI-augmentable) with hands-on supervision and interpersonal care of children. The caring and physical presence components provide significant protection."
+  },
+  {
+    "slug": "health-and-welfare-services-managers",
+    "title": "Health and Welfare Services Managers",
+    "exposure": 5,
+    "rationale": "Health and welfare services management involves both administrative planning (AI-augmentable) and direct service oversight requiring human empathy and judgement."
+  },
+  {
+    "slug": "school-principals",
+    "title": "School Principals",
+    "exposure": 5,
+    "rationale": "School principals combine educational leadership and community engagement (requiring human presence) with administrative tasks that AI can increasingly handle."
+  },
+  {
+    "slug": "other-education-managers",
+    "title": "Other Education Managers",
+    "exposure": 6,
+    "rationale": "Education managers handle curriculum planning, policy development, and institutional administration \u2014 predominantly digital knowledge work with some need for interpersonal leadership."
+  },
+  {
+    "slug": "ict-managers",
+    "title": "ICT Managers",
+    "exposure": 7,
+    "rationale": "ICT managers work entirely in digital domains \u2014 planning technology strategy, overseeing systems, and managing technical teams. AI is already transforming how this work is done."
+  },
+  {
+    "slug": "commissioned-officers-management",
+    "title": "Commissioned Officers (Management)",
+    "exposure": 3,
+    "rationale": "Military officers require physical presence, leadership under pressure, and real-time decision-making in unpredictable environments. While AI assists with intelligence and planning, core military leadership is human."
+  },
+  {
+    "slug": "senior-non-commissioned-defence-force-officers",
+    "title": "Senior Non-Commissioned Defence Force Officers",
+    "exposure": 3,
+    "rationale": "Senior NCOs operate in physical military environments requiring hands-on leadership, training, and operational execution. AI has limited impact on core duties."
+  },
+  {
+    "slug": "other-specialist-managers",
+    "title": "Other Specialist Managers",
+    "exposure": 6,
+    "rationale": "Other specialist managers typically perform knowledge work \u2014 analysis, planning, and coordination \u2014 with varying degrees of physical presence requirements."
+  },
+  {
+    "slug": "cafe-and-restaurant-managers",
+    "title": "Cafe and Restaurant Managers",
+    "exposure": 4,
+    "rationale": "Cafe and restaurant managers split between on-floor hospitality (physical presence, customer interaction) and administration (rostering, ordering, finances) where AI can help."
+  },
+  {
+    "slug": "caravan-park-and-camping-ground-managers",
+    "title": "Caravan Park and Camping Ground Managers",
+    "exposure": 3,
+    "rationale": "Caravan park and camping ground managers need constant physical presence for site maintenance, guest services, and outdoor facility management."
+  },
+  {
+    "slug": "hotel-and-motel-managers",
+    "title": "Hotel and Motel Managers",
+    "exposure": 4,
+    "rationale": "Hotel managers combine guest-facing hospitality (physical presence) with operational management (increasingly AI-augmentable through revenue management, booking systems, etc.)."
+  },
+  {
+    "slug": "licensed-club-managers",
+    "title": "Licensed Club Managers",
+    "exposure": 4,
+    "rationale": "Licensed club management requires physical presence for venue operations and patron interaction, though administrative and financial tasks can be AI-assisted."
+  },
+  {
+    "slug": "other-accommodation-and-hospitality-managers",
+    "title": "Other Accommodation and Hospitality Managers",
+    "exposure": 4,
+    "rationale": "Accommodation and hospitality managers need physical presence for guest services while benefiting from AI in administrative and operational tasks."
+  },
+  {
+    "slug": "retail-managers",
+    "title": "Retail Managers",
+    "exposure": 5,
+    "rationale": "Retail managers combine floor management and customer service (physical) with inventory, staffing, and merchandising analysis (increasingly AI-driven)."
+  },
+  {
+    "slug": "amusement-fitness-and-sports-centre-managers",
+    "title": "Amusement, Fitness and Sports Centre Managers",
+    "exposure": 3,
+    "rationale": "Fitness and sports centre managers require physical presence for facility oversight, member interaction, and operations management in physical environments."
+  },
+  {
+    "slug": "call-contact-centre-and-customer-service-managers",
+    "title": "Call, Contact Centre and Customer Service Managers",
+    "exposure": 8,
+    "rationale": "Call centre management is heavily data-driven \u2014 workforce scheduling, call routing, quality monitoring, and customer analytics. AI is already automating many of the underlying call centre functions."
+  },
+  {
+    "slug": "conference-and-event-organisers",
+    "title": "Conference and Event Organisers",
+    "exposure": 6,
+    "rationale": "Conference and event organisers do significant digital planning and coordination, though event execution requires physical presence and real-time problem-solving."
+  },
+  {
+    "slug": "transport-services-managers",
+    "title": "Transport Services Managers",
+    "exposure": 5,
+    "rationale": "Transport services managers combine logistics coordination (highly AI-augmentable) with physical fleet and personnel oversight."
+  },
+  {
+    "slug": "other-hospitality-retail-and-service-managers",
+    "title": "Other Hospitality, Retail and Service Managers",
+    "exposure": 5,
+    "rationale": "Other hospitality and service managers typically require physical presence while also performing administrative tasks that AI can assist with."
+  },
+  {
+    "slug": "actors-dancers-and-other-entertainers",
+    "title": "Actors, Dancers and Other Entertainers",
+    "exposure": 3,
+    "rationale": "Actors, dancers, and entertainers perform live physical/creative work requiring human presence, emotional expression, and audience connection. AI-generated content is emerging but live performance remains distinctly human."
+  },
+  {
+    "slug": "music-professionals",
+    "title": "Music Professionals",
+    "exposure": 3,
+    "rationale": "Music professionals create and perform through physical instruments and voice. While AI can generate music, live performance, teaching, and creative collaboration remain human activities."
+  },
+  {
+    "slug": "photographers",
+    "title": "Photographers",
+    "exposure": 6,
+    "rationale": "Photography involves both creative vision and technical execution. AI image generation is advancing rapidly, though event/portrait photography requiring physical presence has more protection."
+  },
+  {
+    "slug": "visual-arts-and-crafts-professionals",
+    "title": "Visual Arts and Crafts Professionals",
+    "exposure": 4,
+    "rationale": "Visual artists and craftspeople create physical works requiring manual skill and creative vision. While AI can generate digital art, physical craftsmanship remains human."
+  },
+  {
+    "slug": "artistic-directors-media-producers-and-presenters",
+    "title": "Artistic Directors, Media Producers and Presenters",
+    "exposure": 6,
+    "rationale": "Media producers and presenters combine creative direction (increasingly AI-augmentable) with on-screen/on-air presence (human-dependent). The digital content creation side is highly exposed."
+  },
+  {
+    "slug": "authors-and-book-and-script-editors",
+    "title": "Authors, and Book and Script Editors",
+    "exposure": 9,
+    "rationale": "Authors, book editors, and script editors work entirely in digital text \u2014 AI can already draft, edit, and generate written content at scale. This is one of the most exposed professional occupations."
+  },
+  {
+    "slug": "film-television-radio-and-stage-directors",
+    "title": "Film, Television, Radio and Stage Directors",
+    "exposure": 5,
+    "rationale": "Film and stage directors require creative vision, leadership, and on-set presence. While AI assists with pre-production and post-production, live direction remains human."
+  },
+  {
+    "slug": "journalists-and-other-writers",
+    "title": "Journalists and Other Writers",
+    "exposure": 9,
+    "rationale": "Journalists and writers produce digital text content \u2014 reporting, analysis, opinion. AI can already generate news articles, summaries, and written content, making this highly exposed."
+  },
+  {
+    "slug": "accountants",
+    "title": "Accountants",
+    "exposure": 8,
+    "rationale": "Accountants perform predominantly digital work \u2014 financial analysis, compliance, tax preparation, and reporting. AI and automation are already transforming accounting, with routine tasks being automated at scale."
+  },
+  {
+    "slug": "auditors-company-secretaries-and-corporate-treasurers",
+    "title": "Auditors, Company Secretaries and Corporate Treasurers",
+    "exposure": 8,
+    "rationale": "Auditors and company secretaries perform digital analysis, compliance checking, and documentation \u2014 all areas where AI is rapidly improving. Pattern detection in auditing is a natural AI application."
+  },
+  {
+    "slug": "financial-brokers",
+    "title": "Financial Brokers",
+    "exposure": 7,
+    "rationale": "Financial brokers perform market analysis, client advisory, and transaction execution \u2014 all increasingly AI-augmentable. Relationship management provides some protection."
+  },
+  {
+    "slug": "financial-dealers",
+    "title": "Financial Dealers",
+    "exposure": 8,
+    "rationale": "Financial dealers work in fully digital environments \u2014 trading, market analysis, risk assessment. Algorithmic and AI-driven trading is already dominant in many markets."
+  },
+  {
+    "slug": "financial-investment-advisers-and-managers",
+    "title": "Financial Investment Advisers and Managers",
+    "exposure": 8,
+    "rationale": "Financial investment advisers perform portfolio analysis, risk assessment, and market research \u2014 all digital tasks where AI excels. Robo-advisors are already disrupting this space."
+  },
+  {
+    "slug": "human-resource-professionals",
+    "title": "Human Resource Professionals",
+    "exposure": 7,
+    "rationale": "HR professionals handle recruitment, performance management, and workforce planning \u2014 increasingly AI-augmented through screening tools, analytics, and automated processes. Interpersonal elements provide some protection."
+  },
+  {
+    "slug": "ict-trainers",
+    "title": "ICT Trainers",
+    "exposure": 7,
+    "rationale": "ICT trainers deliver training in digital domains. AI-generated tutorials, personalised learning, and interactive systems are rapidly emerging as alternatives."
+  },
+  {
+    "slug": "training-and-development-professionals",
+    "title": "Training and Development Professionals",
+    "exposure": 7,
+    "rationale": "Training and development professionals design and deliver programs \u2014 content creation is highly AI-augmentable, though in-person facilitation and needs assessment offer some protection."
+  },
+  {
+    "slug": "actuaries-mathematicians-and-statisticians",
+    "title": "Actuaries, Mathematicians and Statisticians",
+    "exposure": 8,
+    "rationale": "Actuaries, mathematicians, and statisticians perform quantitative analysis, modelling, and risk assessment \u2014 all digital, computational tasks where AI excels."
+  },
+  {
+    "slug": "archivists-curators-and-records-managers",
+    "title": "Archivists, Curators and Records Managers",
+    "exposure": 6,
+    "rationale": "Archivists and curators combine digital cataloguing and research (AI-augmentable) with physical collection management and exhibition work (requiring human presence and judgement)."
+  },
+  {
+    "slug": "economists",
+    "title": "Economists",
+    "exposure": 8,
+    "rationale": "Economists perform research, data analysis, modelling, and policy writing \u2014 all digital knowledge work where AI is increasingly capable."
+  },
+  {
+    "slug": "intelligence-and-policy-analysts",
+    "title": "Intelligence and Policy Analysts",
+    "exposure": 8,
+    "rationale": "Intelligence and policy analysts perform research, data analysis, and report writing \u2014 predominantly digital work where AI can process information and generate insights at scale."
+  },
+  {
+    "slug": "land-economists-and-valuers",
+    "title": "Land Economists and Valuers",
+    "exposure": 6,
+    "rationale": "Land economists and valuers combine data analysis (AI-augmentable) with physical property inspections and local market knowledge requiring human presence."
+  },
+  {
+    "slug": "librarians",
+    "title": "Librarians",
+    "exposure": 7,
+    "rationale": "Librarians perform information management, research assistance, and cataloguing \u2014 increasingly automated through digital systems and AI search capabilities. Community engagement aspects provide some protection."
+  },
+  {
+    "slug": "management-and-organisation-analysts",
+    "title": "Management and Organisation Analysts",
+    "exposure": 8,
+    "rationale": "Management and organisation analysts perform consulting, process analysis, and report writing \u2014 predominantly digital knowledge work highly suited to AI augmentation."
+  },
+  {
+    "slug": "other-information-and-organisation-professionals",
+    "title": "Other Information and Organisation Professionals",
+    "exposure": 7,
+    "rationale": "Other information and organisation professionals typically perform digital knowledge work \u2014 research, analysis, and information management \u2014 with varying AI exposure."
+  },
+  {
+    "slug": "advertising-and-marketing-professionals",
+    "title": "Advertising and Marketing Professionals",
+    "exposure": 8,
+    "rationale": "Advertising and marketing professionals create campaigns, analyse markets, and produce content \u2014 all areas where AI is rapidly advancing in content generation, targeting, and analytics."
+  },
+  {
+    "slug": "ict-sales-professionals",
+    "title": "ICT Sales Professionals",
+    "exposure": 7,
+    "rationale": "ICT sales professionals combine technical knowledge with sales relationships. AI assists with technical proposals and market analysis, but relationship-building provides protection."
+  },
+  {
+    "slug": "public-relations-professionals",
+    "title": "Public Relations Professionals",
+    "exposure": 8,
+    "rationale": "Public relations professionals create communications, manage media, and craft messaging \u2014 predominantly digital content work where AI can generate press releases, analyse sentiment, and manage responses."
+  },
+  {
+    "slug": "technical-sales-representatives",
+    "title": "Technical Sales Representatives",
+    "exposure": 6,
+    "rationale": "Technical sales representatives combine product knowledge with in-person client relationships and demonstrations. The relationship and physical demonstration aspects provide moderate protection."
+  },
+  {
+    "slug": "air-transport-professionals",
+    "title": "Air Transport Professionals",
+    "exposure": 3,
+    "rationale": "Air transport professionals (pilots) operate complex machinery requiring physical presence, real-time decision-making, and regulatory compliance. While autopilot exists, human oversight remains critical for safety."
+  },
+  {
+    "slug": "marine-transport-professionals",
+    "title": "Marine Transport Professionals",
+    "exposure": 3,
+    "rationale": "Marine transport professionals operate vessels requiring physical presence, navigation skills, and real-time environmental response. Automation assists but cannot replace human presence."
+  },
+  {
+    "slug": "architects-and-landscape-architects",
+    "title": "Architects and Landscape Architects",
+    "exposure": 7,
+    "rationale": "Architects combine creative design (increasingly AI-augmentable through generative design) with client relationships and site work. The design component is highly digital and exposed."
+  },
+  {
+    "slug": "surveyors-and-spatial-scientists",
+    "title": "Surveyors and Spatial Scientists",
+    "exposure": 5,
+    "rationale": "Surveyors combine fieldwork (physical measurement, site visits) with digital analysis and mapping. The physical component provides moderate protection."
+  },
+  {
+    "slug": "fashion-industrial-and-jewellery-designers",
+    "title": "Fashion, Industrial and Jewellery Designers",
+    "exposure": 7,
+    "rationale": "Fashion, industrial, and jewellery designers create designs \u2014 an increasingly AI-augmentable creative process, especially for digital design tools. Physical prototyping provides some protection."
+  },
+  {
+    "slug": "graphic-and-web-designers-and-illustrators",
+    "title": "Graphic and Web Designers, and Illustrators",
+    "exposure": 9,
+    "rationale": "Graphic and web designers work entirely in digital domains \u2014 visual design, layout, web interfaces. AI image generation and design tools are advancing extremely rapidly."
+  },
+  {
+    "slug": "interior-designers",
+    "title": "Interior Designers",
+    "exposure": 6,
+    "rationale": "Interior designers combine digital design work (AI-augmentable) with client consultations and physical site assessments. The in-person and spatial components provide moderate protection."
+  },
+  {
+    "slug": "urban-and-regional-planners",
+    "title": "Urban and Regional Planners",
+    "exposure": 6,
+    "rationale": "Urban and regional planners combine data analysis and policy writing (AI-augmentable) with community consultation and site assessment (requiring human presence)."
+  },
+  {
+    "slug": "chemical-and-materials-engineers",
+    "title": "Chemical and Materials Engineers",
+    "exposure": 6,
+    "rationale": "Chemical engineers combine technical analysis and simulation (AI-augmentable) with laboratory and plant-based work requiring physical presence."
+  },
+  {
+    "slug": "civil-engineering-professionals",
+    "title": "Civil Engineering Professionals",
+    "exposure": 6,
+    "rationale": "Civil engineering involves design calculations and documentation (increasingly AI-augmentable) alongside site inspections and project oversight requiring physical presence."
+  },
+  {
+    "slug": "electrical-engineers",
+    "title": "Electrical Engineers",
+    "exposure": 6,
+    "rationale": "Electrical engineers combine digital design and analysis (AI-augmentable) with physical installation oversight and testing."
+  },
+  {
+    "slug": "electronics-engineers",
+    "title": "Electronics Engineers",
+    "exposure": 7,
+    "rationale": "Electronics engineers work significantly in digital design, simulation, and testing \u2014 areas where AI is increasingly capable. Physical prototyping provides some protection."
+  },
+  {
+    "slug": "industrial-mechanical-and-production-engineers",
+    "title": "Industrial, Mechanical and Production Engineers",
+    "exposure": 6,
+    "rationale": "Industrial and mechanical engineers combine design and analysis (AI-augmentable) with physical manufacturing oversight and testing."
+  },
+  {
+    "slug": "mining-engineers",
+    "title": "Mining Engineers",
+    "exposure": 5,
+    "rationale": "Mining engineers work in physical mining environments requiring on-site presence, though planning and analysis components are increasingly digital and AI-augmentable."
+  },
+  {
+    "slug": "other-engineering-professionals",
+    "title": "Other Engineering Professionals",
+    "exposure": 6,
+    "rationale": "Other engineering professionals typically combine digital analysis and design (AI-augmentable) with varying degrees of physical site work."
+  },
+  {
+    "slug": "agricultural-and-forestry-scientists",
+    "title": "Agricultural and Forestry Scientists",
+    "exposure": 6,
+    "rationale": "Agricultural scientists combine laboratory and field research (physical) with data analysis and report writing (AI-augmentable)."
+  },
+  {
+    "slug": "chemists-and-food-and-wine-scientists",
+    "title": "Chemists, and Food and Wine Scientists",
+    "exposure": 6,
+    "rationale": "Chemists and food scientists split between laboratory work (physical) and data analysis, research, and reporting (increasingly AI-augmentable)."
+  },
+  {
+    "slug": "environmental-scientists",
+    "title": "Environmental Scientists",
+    "exposure": 6,
+    "rationale": "Environmental scientists combine fieldwork and sampling (physical) with data analysis, modelling, and report writing (AI-augmentable)."
+  },
+  {
+    "slug": "geologists-geophysicists-and-hydrogeologists",
+    "title": "Geologists, Geophysicists and Hydrogeologists",
+    "exposure": 5,
+    "rationale": "Geologists combine extensive fieldwork (physical \u2014 rock sampling, site assessment) with data interpretation and modelling (AI-augmentable)."
+  },
+  {
+    "slug": "life-scientists",
+    "title": "Life Scientists",
+    "exposure": 6,
+    "rationale": "Life scientists combine laboratory research (physical) with data analysis, literature review, and publication (increasingly AI-augmentable)."
+  },
+  {
+    "slug": "medical-laboratory-scientists",
+    "title": "Medical Laboratory Scientists",
+    "exposure": 4,
+    "rationale": "Medical laboratory scientists perform hands-on laboratory testing and analysis. While AI assists with interpretation, the physical sample handling and testing requires human presence."
+  },
+  {
+    "slug": "veterinarians",
+    "title": "Veterinarians",
+    "exposure": 3,
+    "rationale": "Veterinarians perform hands-on animal examination, surgery, and treatment requiring physical presence and manual skill. AI may assist with diagnostics but cannot replace hands-on care."
+  },
+  {
+    "slug": "other-natural-and-physical-science-professionals",
+    "title": "Other Natural and Physical Science Professionals",
+    "exposure": 6,
+    "rationale": "Other science professionals typically combine physical research with digital analysis and reporting."
+  },
+  {
+    "slug": "early-childhood-pre-primary-school-teachers",
+    "title": "Early Childhood (Pre-primary School) Teachers",
+    "exposure": 4,
+    "rationale": "Early childhood teachers provide hands-on care, supervision, and education for young children. The interpersonal, caring, and physical presence requirements provide strong protection."
+  },
+  {
+    "slug": "primary-school-teachers",
+    "title": "Primary School Teachers",
+    "exposure": 5,
+    "rationale": "Primary school teachers deliver face-to-face education, manage classrooms, and provide pastoral care. AI can augment lesson planning and assessment, but in-person teaching and child development support remain essential."
+  },
+  {
+    "slug": "middle-school-teachers",
+    "title": "Middle School Teachers",
+    "exposure": 5,
+    "rationale": "Middle school teachers deliver face-to-face education with increasing subject specialisation. AI assists with content and assessment, but classroom management and mentoring require human presence."
+  },
+  {
+    "slug": "secondary-school-teachers",
+    "title": "Secondary School Teachers",
+    "exposure": 5,
+    "rationale": "Secondary school teachers deliver specialised subject education face-to-face. AI augments content delivery and assessment, but classroom interaction and student mentoring remain human."
+  },
+  {
+    "slug": "special-education-teachers",
+    "title": "Special Education Teachers",
+    "exposure": 4,
+    "rationale": "Special education teachers provide individualised, often physical support for students with disabilities. The high interpersonal and adaptive care requirements provide strong protection."
+  },
+  {
+    "slug": "university-lecturers-and-tutors",
+    "title": "University Lecturers and Tutors",
+    "exposure": 7,
+    "rationale": "University lecturers and tutors deliver knowledge-based education and conduct research \u2014 both increasingly AI-augmentable. Content delivery and research writing are highly digital, though mentoring and lab supervision are less exposed."
+  },
+  {
+    "slug": "vocational-education-teachers",
+    "title": "Vocational Education Teachers",
+    "exposure": 6,
+    "rationale": "Vocational education teachers combine hands-on practical instruction (protected) with theory delivery and assessment (AI-augmentable)."
+  },
+  {
+    "slug": "education-advisers-and-reviewers",
+    "title": "Education Advisers and Reviewers",
+    "exposure": 7,
+    "rationale": "Education advisers perform curriculum development, policy analysis, and programme review \u2014 predominantly digital knowledge work that AI can significantly augment."
+  },
+  {
+    "slug": "private-tutors-and-teachers",
+    "title": "Private Tutors and Teachers",
+    "exposure": 6,
+    "rationale": "Private tutors provide personalised one-on-one instruction. AI tutoring systems are advancing but many students value human interaction. Exposure varies by subject."
+  },
+  {
+    "slug": "teachers-of-english-to-speakers-of-other-languages",
+    "title": "Teachers of English to Speakers of Other Languages",
+    "exposure": 6,
+    "rationale": "TESOL teachers provide face-to-face language instruction with cultural and interpersonal elements. AI language tools are advancing rapidly but in-person teaching retains value."
+  },
+  {
+    "slug": "nutrition-professionals",
+    "title": "Nutrition Professionals",
+    "exposure": 6,
+    "rationale": "Nutrition professionals combine scientific knowledge work (AI-augmentable) with client consultations and personalised health assessments requiring human interaction."
+  },
+  {
+    "slug": "medical-imaging-professionals",
+    "title": "Medical Imaging Professionals",
+    "exposure": 5,
+    "rationale": "Medical imaging professionals operate complex equipment and interpret results. AI is advancing in image interpretation, but equipment operation and patient interaction require human presence."
+  },
+  {
+    "slug": "occupational-and-environmental-health-professionals",
+    "title": "Occupational and Environmental Health Professionals",
+    "exposure": 6,
+    "rationale": "Occupational and environmental health professionals combine site inspections (physical) with risk analysis and report writing (AI-augmentable)."
+  },
+  {
+    "slug": "optometrists-and-orthoptists",
+    "title": "Optometrists and Orthoptists",
+    "exposure": 4,
+    "rationale": "Optometrists perform hands-on eye examinations and patient care. While AI assists with diagnostics, the physical examination and patient interaction require human presence."
+  },
+  {
+    "slug": "pharmacists",
+    "title": "Pharmacists",
+    "exposure": 5,
+    "rationale": "Pharmacists combine medication dispensing (increasingly automated) with patient counselling and clinical judgement that requires human interaction."
+  },
+  {
+    "slug": "other-health-diagnostic-and-promotion-professionals",
+    "title": "Other Health Diagnostic and Promotion Professionals",
+    "exposure": 5,
+    "rationale": "Other health diagnostic professionals combine hands-on patient assessment with analysis and reporting."
+  },
+  {
+    "slug": "chiropractors-and-osteopaths",
+    "title": "Chiropractors and Osteopaths",
+    "exposure": 3,
+    "rationale": "Chiropractors and osteopaths perform hands-on physical treatments requiring manual skill, patient assessment, and physical presence. AI has minimal impact on core treatment work."
+  },
+  {
+    "slug": "complementary-health-therapists",
+    "title": "Complementary Health Therapists",
+    "exposure": 3,
+    "rationale": "Complementary health therapists provide hands-on treatments (massage, acupuncture, etc.) requiring physical presence and manual skill."
+  },
+  {
+    "slug": "dental-practitioners",
+    "title": "Dental Practitioners",
+    "exposure": 3,
+    "rationale": "Dental practitioners perform intricate manual procedures in patients' mouths. While AI assists with diagnostics and treatment planning, the hands-on work is highly protected."
+  },
+  {
+    "slug": "occupational-therapists",
+    "title": "Occupational Therapists",
+    "exposure": 4,
+    "rationale": "Occupational therapists provide hands-on patient assessment and treatment, adapting environments and activities. The physical and interpersonal components provide strong protection."
+  },
+  {
+    "slug": "physiotherapists",
+    "title": "Physiotherapists",
+    "exposure": 3,
+    "rationale": "Physiotherapists perform hands-on physical treatments, exercise prescription, and patient assessment. The manual therapy and physical presence requirements provide strong protection."
+  },
+  {
+    "slug": "podiatrists",
+    "title": "Podiatrists",
+    "exposure": 3,
+    "rationale": "Podiatrists perform hands-on foot examination and treatment. The physical nature of the work provides strong protection from AI disruption."
+  },
+  {
+    "slug": "audiologists-and-speech-pathologists-therapists",
+    "title": "Audiologists and Speech Pathologists \\ Therapists",
+    "exposure": 4,
+    "rationale": "Audiologists and speech pathologists combine diagnostic testing (partially AI-augmentable) with hands-on therapy and patient interaction requiring human empathy and skill."
+  },
+  {
+    "slug": "general-practitioners-and-resident-medical-officers",
+    "title": "General Practitioners and Resident Medical Officers",
+    "exposure": 4,
+    "rationale": "GPs perform physical examinations, patient consultations, and clinical decision-making. AI assists with diagnostics and record-keeping, but patient interaction and physical examination remain essential."
+  },
+  {
+    "slug": "anaesthetists",
+    "title": "Anaesthetists",
+    "exposure": 3,
+    "rationale": "Anaesthetists perform critical hands-on medical procedures requiring real-time patient monitoring, physical presence, and rapid decision-making in high-stakes environments."
+  },
+  {
+    "slug": "specialist-physicians",
+    "title": "Specialist Physicians",
+    "exposure": 4,
+    "rationale": "Specialist physicians combine clinical expertise with patient examination and complex diagnostic reasoning. AI assists with image interpretation and literature review, but hands-on patient care remains essential."
+  },
+  {
+    "slug": "psychiatrists",
+    "title": "Psychiatrists",
+    "exposure": 4,
+    "rationale": "Psychiatrists provide therapy and medication management requiring deep interpersonal skills, empathy, and clinical judgement. While AI chatbots emerge, the therapeutic relationship remains fundamentally human."
+  },
+  {
+    "slug": "surgeons",
+    "title": "Surgeons",
+    "exposure": 3,
+    "rationale": "Surgeons perform complex manual procedures requiring precise physical skills, real-time decision-making, and years of hands-on training. Robotic surgery assists but doesn't replace the surgeon."
+  },
+  {
+    "slug": "other-medical-practitioners",
+    "title": "Other Medical Practitioners",
+    "exposure": 4,
+    "rationale": "Other medical practitioners perform hands-on patient care with varying degrees of diagnostic support from AI."
+  },
+  {
+    "slug": "midwives",
+    "title": "Midwives",
+    "exposure": 3,
+    "rationale": "Midwives provide hands-on childbirth support, patient care, and emotional support in highly variable physical situations. The caring and physical presence components provide strong protection."
+  },
+  {
+    "slug": "nurse-educators-and-researchers",
+    "title": "Nurse Educators and Researchers",
+    "exposure": 7,
+    "rationale": "Nurse educators and researchers perform predominantly digital knowledge work \u2014 curriculum development, research, and publication \u2014 with some clinical teaching."
+  },
+  {
+    "slug": "nurse-managers",
+    "title": "Nurse Managers",
+    "exposure": 6,
+    "rationale": "Nurse managers combine clinical oversight (requiring healthcare environment presence) with administrative and planning tasks (AI-augmentable)."
+  },
+  {
+    "slug": "registered-nurses",
+    "title": "Registered Nurses",
+    "exposure": 3,
+    "rationale": "Registered nurses provide hands-on patient care, medication administration, and clinical monitoring. While AI assists with documentation and monitoring, the physical caring work is strongly protected."
+  },
+  {
+    "slug": "ict-business-and-systems-analysts",
+    "title": "ICT Business and Systems Analysts",
+    "exposure": 8,
+    "rationale": "ICT business and systems analysts perform digital analysis, requirements gathering, and documentation. AI can increasingly analyse systems, generate specifications, and identify improvements."
+  },
+  {
+    "slug": "multimedia-specialists-and-web-developers",
+    "title": "Multimedia Specialists and Web Developers",
+    "exposure": 9,
+    "rationale": "Multimedia specialists and web developers work entirely in digital creation \u2014 websites, apps, multimedia content. AI code generation and design tools are advancing extremely rapidly."
+  },
+  {
+    "slug": "software-and-applications-programmers",
+    "title": "Software and Applications Programmers",
+    "exposure": 9,
+    "rationale": "Software programmers work entirely in digital domains \u2014 writing, testing, and maintaining code. AI coding assistants are already transforming software development and will continue to do so."
+  },
+  {
+    "slug": "database-and-systems-administrators-and-ict-security-specialists",
+    "title": "Database and Systems Administrators, and ICT Security Specialists",
+    "exposure": 8,
+    "rationale": "Database administrators and ICT security specialists work entirely in digital infrastructure. AI is increasingly capable of monitoring, managing, and securing digital systems."
+  },
+  {
+    "slug": "computer-network-professionals",
+    "title": "Computer Network Professionals",
+    "exposure": 7,
+    "rationale": "Computer network professionals manage digital infrastructure. While physical hardware work provides some protection, network design, monitoring, and troubleshooting are increasingly AI-augmented."
+  },
+  {
+    "slug": "ict-support-and-test-engineers",
+    "title": "ICT Support and Test Engineers",
+    "exposure": 7,
+    "rationale": "ICT support and test engineers perform digital testing and troubleshooting. AI-powered testing tools and automated diagnostics are rapidly advancing."
+  },
+  {
+    "slug": "telecommunications-engineering-professionals",
+    "title": "Telecommunications Engineering Professionals",
+    "exposure": 6,
+    "rationale": "Telecommunications engineers combine digital design and analysis with physical infrastructure work. The physical component provides moderate protection."
+  },
+  {
+    "slug": "barristers",
+    "title": "Barristers",
+    "exposure": 7,
+    "rationale": "Barristers perform legal research, argument preparation, and advocacy \u2014 largely digital knowledge work. AI can assist with research and drafting, though courtroom advocacy requires human presence."
+  },
+  {
+    "slug": "judicial-and-other-legal-professionals",
+    "title": "Judicial and Other Legal Professionals",
+    "exposure": 7,
+    "rationale": "Judicial and legal professionals perform legal analysis, decision-making, and case management \u2014 increasingly AI-augmentable, though judicial authority and human judgement remain essential."
+  },
+  {
+    "slug": "solicitors",
+    "title": "Solicitors",
+    "exposure": 8,
+    "rationale": "Solicitors perform legal research, document drafting, contract review, and compliance work \u2014 predominantly digital tasks where AI is already making significant inroads."
+  },
+  {
+    "slug": "counsellors",
+    "title": "Counsellors",
+    "exposure": 4,
+    "rationale": "Counsellors provide therapeutic support through deep interpersonal connection, empathy, and emotional intelligence. While AI chatbots are emerging, the human therapeutic relationship is difficult to replicate."
+  },
+  {
+    "slug": "ministers-of-religion",
+    "title": "Ministers of Religion",
+    "exposure": 3,
+    "rationale": "Ministers of religion provide spiritual guidance, community leadership, and pastoral care requiring deep personal connection and physical presence in communities."
+  },
+  {
+    "slug": "psychologists-and-psychotherapists",
+    "title": "Psychologists and Psychotherapists",
+    "exposure": 4,
+    "rationale": "Psychologists provide assessment, therapy, and clinical services requiring interpersonal skills, empathy, and clinical judgement. AI tools assist but cannot replace the therapeutic relationship."
+  },
+  {
+    "slug": "social-professionals",
+    "title": "Social Professionals",
+    "exposure": 5,
+    "rationale": "Social professionals combine community engagement and relationship work (protected) with research, policy analysis, and documentation (AI-augmentable)."
+  },
+  {
+    "slug": "social-workers",
+    "title": "Social Workers",
+    "exposure": 4,
+    "rationale": "Social workers provide direct client support, advocacy, and crisis intervention requiring empathy, relationship skills, and physical presence. Case documentation is AI-augmentable but core work is protected."
+  },
+  {
+    "slug": "welfare-recreation-and-community-arts-workers",
+    "title": "Welfare, Recreation and Community Arts Workers",
+    "exposure": 4,
+    "rationale": "Welfare and community arts workers engage directly with communities through interpersonal programs and physical activities. The human connection component provides strong protection."
+  },
+  {
+    "slug": "agricultural-technicians",
+    "title": "Agricultural Technicians",
+    "exposure": 3,
+    "rationale": "Agricultural technicians perform hands-on fieldwork \u2014 soil testing, crop monitoring, and farm equipment operation. While AI assists with data analysis, physical work is protected."
+  },
+  {
+    "slug": "medical-technicians",
+    "title": "Medical Technicians",
+    "exposure": 4,
+    "rationale": "Medical technicians perform hands-on laboratory and clinical procedures. AI assists with analysis but sample handling and equipment operation require human presence."
+  },
+  {
+    "slug": "primary-products-inspectors",
+    "title": "Primary Products Inspectors",
+    "exposure": 3,
+    "rationale": "Primary products inspectors perform physical inspections of food, livestock, and agricultural products requiring hands-on assessment and presence."
+  },
+  {
+    "slug": "science-technicians",
+    "title": "Science Technicians",
+    "exposure": 4,
+    "rationale": "Science technicians perform laboratory procedures and equipment operation. AI assists with data analysis but hands-on work is protected."
+  },
+  {
+    "slug": "architectural-building-and-surveying-technicians",
+    "title": "Architectural, Building and Surveying Technicians",
+    "exposure": 5,
+    "rationale": "Architectural and surveying technicians combine digital drafting and modelling (AI-augmentable) with site measurement and inspection (physical)."
+  },
+  {
+    "slug": "civil-engineering-draftspersons-and-technicians",
+    "title": "Civil Engineering Draftspersons and Technicians",
+    "exposure": 6,
+    "rationale": "Civil engineering draftspersons produce technical drawings and documentation \u2014 increasingly AI-augmentable through CAD automation and generative design."
+  },
+  {
+    "slug": "electrical-engineering-draftspersons-technicians",
+    "title": "Electrical Engineering Draftspersons, Technicians",
+    "exposure": 6,
+    "rationale": "Electrical engineering draftspersons create technical drawings and specifications \u2014 digital work that AI-powered design tools can increasingly assist with."
+  },
+  {
+    "slug": "electronic-engineering-draftspersons-technicians",
+    "title": "Electronic Engineering Draftspersons, Technicians",
+    "exposure": 6,
+    "rationale": "Electronic engineering draftspersons work primarily with digital design tools. AI is advancing in circuit design and layout automation."
+  },
+  {
+    "slug": "mechanical-engineering-draftspersons-technicians",
+    "title": "Mechanical Engineering Draftspersons, Technicians",
+    "exposure": 6,
+    "rationale": "Mechanical engineering draftspersons produce technical drawings and specifications \u2014 digital work increasingly augmented by AI-powered CAD tools."
+  },
+  {
+    "slug": "safety-inspectors",
+    "title": "Safety Inspectors",
+    "exposure": 3,
+    "rationale": "Safety inspectors perform physical site inspections requiring presence, observation, and hands-on assessment of workplace conditions."
+  },
+  {
+    "slug": "other-building-and-engineering-technicians",
+    "title": "Other Building and Engineering Technicians",
+    "exposure": 5,
+    "rationale": "Other building and engineering technicians combine technical documentation (AI-augmentable) with physical site work."
+  },
+  {
+    "slug": "ict-support-technicians",
+    "title": "ICT Support Technicians",
+    "exposure": 6,
+    "rationale": "ICT support technicians troubleshoot and maintain computer systems. AI-powered diagnostics and remote management tools are increasingly capable, though physical hardware work provides some protection."
+  },
+  {
+    "slug": "telecommunications-technical-specialists",
+    "title": "Telecommunications Technical Specialists",
+    "exposure": 5,
+    "rationale": "Telecommunications technical specialists combine physical equipment installation and maintenance with digital configuration and troubleshooting."
+  },
+  {
+    "slug": "automotive-electricians",
+    "title": "Automotive Electricians",
+    "exposure": 2,
+    "rationale": "Automotive electricians perform hands-on diagnostic and repair work on vehicle electrical systems. The physical, dexterity-requiring work is highly protected from AI."
+  },
+  {
+    "slug": "motor-mechanics",
+    "title": "Motor Mechanics",
+    "exposure": 2,
+    "rationale": "Motor mechanics perform hands-on vehicle diagnosis and repair requiring physical skill and problem-solving in variable conditions. AI assists with diagnostics but not physical repair."
+  },
+  {
+    "slug": "metal-casting-forging-and-finishing-trades",
+    "title": "Metal Casting, Forging and Finishing Trades",
+    "exposure": 1,
+    "rationale": "Metal casting, forging, and finishing involves intensive hands-on work with heavy materials in industrial environments. AI has minimal impact on core physical tasks."
+  },
+  {
+    "slug": "sheetmetal-trades-workers",
+    "title": "Sheetmetal Trades Workers",
+    "exposure": 1,
+    "rationale": "Sheetmetal trades involve hands-on cutting, bending, and fabricating metal components. The physical skill requirements provide very strong protection."
+  },
+  {
+    "slug": "structural-steel-and-welding-trades-workers",
+    "title": "Structural Steel and Welding Trades Workers",
+    "exposure": 1,
+    "rationale": "Structural steel and welding trades require hands-on welding, cutting, and fabrication in variable physical environments. Highly protected from AI disruption."
+  },
+  {
+    "slug": "aircraft-maintenance-engineers",
+    "title": "Aircraft Maintenance Engineers",
+    "exposure": 2,
+    "rationale": "Aircraft maintenance engineers perform hands-on inspection, repair, and maintenance of aircraft. Safety-critical physical work with strong regulatory requirements."
+  },
+  {
+    "slug": "metal-fitters-and-machinists",
+    "title": "Metal Fitters and Machinists",
+    "exposure": 2,
+    "rationale": "Metal fitters and machinists perform hands-on fitting, turning, and machining operations. While CNC automation exists, skilled manual work remains essential."
+  },
+  {
+    "slug": "precision-metal-trades-workers",
+    "title": "Precision Metal Trades Workers",
+    "exposure": 2,
+    "rationale": "Precision metal trades require fine manual skills for instrument making and repair. The exacting physical nature provides strong protection."
+  },
+  {
+    "slug": "toolmakers-and-engineering-patternmakers",
+    "title": "Toolmakers and Engineering Patternmakers",
+    "exposure": 2,
+    "rationale": "Toolmakers and patternmakers perform precise manual fabrication. While CNC assists, the skilled handwork and problem-solving remain human."
+  },
+  {
+    "slug": "panelbeaters",
+    "title": "Panelbeaters",
+    "exposure": 1,
+    "rationale": "Panelbeaters perform hands-on vehicle body repair requiring manual skill, physical strength, and spatial judgement. Highly protected from AI."
+  },
+  {
+    "slug": "vehicle-body-builders-and-trimmers",
+    "title": "Vehicle Body Builders and Trimmers",
+    "exposure": 2,
+    "rationale": "Vehicle body builders and trimmers perform hands-on fabrication and fitting work requiring physical skill."
+  },
+  {
+    "slug": "vehicle-painters",
+    "title": "Vehicle Painters",
+    "exposure": 2,
+    "rationale": "Vehicle painters perform physical spray painting requiring manual skill, surface preparation, and environmental control. Robots assist in factories but not in repair shops."
+  },
+  {
+    "slug": "bricklayers-and-stonemasons",
+    "title": "Bricklayers and Stonemasons",
+    "exposure": 1,
+    "rationale": "Bricklaying and stonemasonry are hands-on construction trades requiring physical strength, spatial awareness, and manual precision. Highly protected."
+  },
+  {
+    "slug": "carpenters-and-joiners",
+    "title": "Carpenters and Joiners",
+    "exposure": 1,
+    "rationale": "Carpentry and joinery involve hands-on construction work requiring manual skill, measurement, and physical labour on varied sites."
+  },
+  {
+    "slug": "floor-finishers",
+    "title": "Floor Finishers",
+    "exposure": 1,
+    "rationale": "Floor finishing involves hands-on surface preparation, material laying, and finishing. Physical trade work with strong protection."
+  },
+  {
+    "slug": "painting-trades-workers",
+    "title": "Painting Trades Workers",
+    "exposure": 1,
+    "rationale": "Painting trades involve physical surface preparation and paint application in varied environments. Manual skill and site presence required."
+  },
+  {
+    "slug": "glaziers",
+    "title": "Glaziers",
+    "exposure": 1,
+    "rationale": "Glaziers install and repair glass in buildings \u2014 hands-on work requiring physical handling of heavy, fragile materials."
+  },
+  {
+    "slug": "plasterers",
+    "title": "Plasterers",
+    "exposure": 1,
+    "rationale": "Plasterers apply and finish plaster and render \u2014 hands-on construction work requiring physical skill."
+  },
+  {
+    "slug": "roof-tilers",
+    "title": "Roof Tilers",
+    "exposure": 1,
+    "rationale": "Roof tiling is physical outdoor work at heights, requiring manual skill and weather adaptation. Very highly protected."
+  },
+  {
+    "slug": "wall-and-floor-tilers",
+    "title": "Wall and Floor Tilers",
+    "exposure": 1,
+    "rationale": "Wall and floor tiling involves hands-on measurement, cutting, and laying of tiles. Physical trade work."
+  },
+  {
+    "slug": "plumbers",
+    "title": "Plumbers",
+    "exposure": 2,
+    "rationale": "Plumbers install and maintain water and gas systems. Hands-on physical work in varied building environments. AI may assist with diagnostics but not physical pipe fitting."
+  },
+  {
+    "slug": "electricians",
+    "title": "Electricians",
+    "exposure": 2,
+    "rationale": "Electricians install and maintain electrical systems. Physical hands-on work requiring safety awareness and manual skill. AI assists with diagnostics but not installation."
+  },
+  {
+    "slug": "airconditioning-and-refrigeration-mechanics",
+    "title": "Airconditioning and Refrigeration Mechanics",
+    "exposure": 2,
+    "rationale": "Airconditioning mechanics install and repair HVAC systems \u2014 hands-on physical work in varied environments."
+  },
+  {
+    "slug": "electrical-distribution-trades-workers",
+    "title": "Electrical Distribution Trades Workers",
+    "exposure": 2,
+    "rationale": "Electrical distribution trades workers maintain power networks \u2014 physical outdoor work at heights with safety-critical requirements."
+  },
+  {
+    "slug": "electronics-trades-workers",
+    "title": "Electronics Trades Workers",
+    "exposure": 3,
+    "rationale": "Electronics trades workers repair and maintain electronic equipment. Some diagnostic work is AI-augmentable, but hands-on repair requires physical skill."
+  },
+  {
+    "slug": "telecommunications-trades-workers",
+    "title": "Telecommunications Trades Workers",
+    "exposure": 2,
+    "rationale": "Telecommunications trades workers install and maintain physical network infrastructure \u2014 cabling, equipment, and outdoor installations."
+  },
+  {
+    "slug": "bakers-and-pastrycooks",
+    "title": "Bakers and Pastrycooks",
+    "exposure": 1,
+    "rationale": "Bakers and pastrycooks perform hands-on food preparation requiring manual skill, timing, and sensory judgement (taste, texture, smell)."
+  },
+  {
+    "slug": "butchers-and-smallgoods-makers",
+    "title": "Butchers and Smallgoods Makers",
+    "exposure": 1,
+    "rationale": "Butchers perform hands-on meat cutting and processing requiring physical skill and food safety knowledge."
+  },
+  {
+    "slug": "chefs",
+    "title": "Chefs",
+    "exposure": 2,
+    "rationale": "Chefs prepare food in fast-paced kitchen environments requiring manual skill, creativity, and real-time coordination. The physical and creative elements provide strong protection."
+  },
+  {
+    "slug": "cooks",
+    "title": "Cooks",
+    "exposure": 1,
+    "rationale": "Cooks perform hands-on food preparation in commercial kitchens. Physical, time-pressured work with strong protection."
+  },
+  {
+    "slug": "animal-attendants-and-trainers",
+    "title": "Animal Attendants and Trainers",
+    "exposure": 2,
+    "rationale": "Animal attendants work hands-on with animals \u2014 feeding, grooming, exercising, and monitoring health. Physical presence with unpredictable animals is essential."
+  },
+  {
+    "slug": "shearers",
+    "title": "Shearers",
+    "exposure": 1,
+    "rationale": "Shearing is intensive hands-on physical work with livestock in rural environments. Very highly protected from AI."
+  },
+  {
+    "slug": "veterinary-nurses",
+    "title": "Veterinary Nurses",
+    "exposure": 3,
+    "rationale": "Veterinary nurses provide hands-on animal care, assisting with procedures and monitoring. Physical animal handling is essential, though record-keeping is AI-augmentable."
+  },
+  {
+    "slug": "florists",
+    "title": "Florists",
+    "exposure": 2,
+    "rationale": "Florists create physical arrangements from natural materials requiring manual skill, creativity, and customer interaction."
+  },
+  {
+    "slug": "gardeners",
+    "title": "Gardeners",
+    "exposure": 1,
+    "rationale": "Gardeners perform physical outdoor work \u2014 planting, pruning, mowing. Hands-on work in varied natural environments."
+  },
+  {
+    "slug": "greenkeepers",
+    "title": "Greenkeepers",
+    "exposure": 1,
+    "rationale": "Greenkeepers maintain turf and grounds \u2014 physical outdoor work requiring hands-on care and environmental adaptation."
+  },
+  {
+    "slug": "nurserypersons",
+    "title": "Nurserypersons",
+    "exposure": 1,
+    "rationale": "Nurserypersons propagate and maintain plants \u2014 hands-on horticultural work requiring physical presence and plant knowledge."
+  },
+  {
+    "slug": "hairdressers",
+    "title": "Hairdressers",
+    "exposure": 2,
+    "rationale": "Hairdressers perform hands-on hair cutting, styling, and treatment. Physical work requiring manual skill and client interaction. Strongly protected."
+  },
+  {
+    "slug": "print-finishers-and-screen-printers",
+    "title": "Print Finishers and Screen Printers",
+    "exposure": 4,
+    "rationale": "Print finishers operate machines and perform manual finishing tasks. Some automation exists but skilled manual work and machine operation remain essential."
+  },
+  {
+    "slug": "graphic-pre-press-trades-workers",
+    "title": "Graphic Pre-press Trades Workers",
+    "exposure": 7,
+    "rationale": "Graphic pre-press workers prepare digital files for printing. This digital workflow is increasingly automated through AI-powered tools."
+  },
+  {
+    "slug": "printers",
+    "title": "Printers",
+    "exposure": 4,
+    "rationale": "Printers operate complex printing machinery. While digital printing advances, machine operation and maintenance require physical presence."
+  },
+  {
+    "slug": "canvas-and-leather-goods-makers",
+    "title": "Canvas and Leather Goods Makers",
+    "exposure": 1,
+    "rationale": "Canvas and leather goods makers perform hands-on fabrication requiring manual skill and craftwork."
+  },
+  {
+    "slug": "clothing-trades-workers",
+    "title": "Clothing Trades Workers",
+    "exposure": 2,
+    "rationale": "Clothing trades workers perform hands-on garment construction. While industrial sewing is partially automated, skilled handwork remains essential."
+  },
+  {
+    "slug": "upholsterers",
+    "title": "Upholsterers",
+    "exposure": 1,
+    "rationale": "Upholsterers perform hands-on furniture re-covering requiring manual skill and physical work."
+  },
+  {
+    "slug": "cabinetmakers",
+    "title": "Cabinetmakers",
+    "exposure": 2,
+    "rationale": "Cabinetmakers construct and install furniture and fittings. Hands-on woodworking combining machine operation with manual skill."
+  },
+  {
+    "slug": "wood-machinists-and-other-wood-trades-workers",
+    "title": "Wood Machinists and Other Wood Trades Workers",
+    "exposure": 2,
+    "rationale": "Wood machinists operate woodworking machinery. While CNC assists, machine setup and operation require physical presence."
+  },
+  {
+    "slug": "boat-builders-and-shipwrights",
+    "title": "Boat Builders and Shipwrights",
+    "exposure": 2,
+    "rationale": "Boat builders construct and repair vessels \u2014 hands-on physical work requiring diverse manual skills."
+  },
+  {
+    "slug": "chemical-gas-petroleum-and-power-plant-operators",
+    "title": "Chemical, Gas, Petroleum and Power Plant Operators",
+    "exposure": 3,
+    "rationale": "Plant operators monitor and control chemical, gas, and power plant processes. AI assists with monitoring but physical presence for safety and maintenance is essential."
+  },
+  {
+    "slug": "gallery-library-and-museum-technicians",
+    "title": "Gallery, Library and Museum Technicians",
+    "exposure": 5,
+    "rationale": "Gallery, library, and museum technicians combine physical collection handling with digital cataloguing and exhibition support."
+  },
+  {
+    "slug": "jewellers",
+    "title": "Jewellers",
+    "exposure": 2,
+    "rationale": "Jewellers perform intricate hands-on work with precious materials requiring fine manual skill. Creative and physical work with strong protection."
+  },
+  {
+    "slug": "performing-arts-technicians",
+    "title": "Performing Arts Technicians",
+    "exposure": 3,
+    "rationale": "Performing arts technicians operate physical equipment \u2014 lighting, sound, staging \u2014 requiring presence and real-time adaptation."
+  },
+  {
+    "slug": "signwriters",
+    "title": "Signwriters",
+    "exposure": 3,
+    "rationale": "Signwriters create physical signs combining design (increasingly digital) with physical installation and fabrication."
+  },
+  {
+    "slug": "other-miscellaneous-technicians-and-trades-workers",
+    "title": "Other Miscellaneous Technicians and Trades Workers",
+    "exposure": 3,
+    "rationale": "Other miscellaneous technicians and trades workers typically perform hands-on physical work with varying degrees of digital support."
+  },
+  {
+    "slug": "ambulance-officers-and-paramedics",
+    "title": "Ambulance Officers and Paramedics",
+    "exposure": 2,
+    "rationale": "Ambulance officers and paramedics provide emergency medical care in unpredictable, high-pressure physical environments. Hands-on clinical skills and rapid decision-making are essential."
+  },
+  {
+    "slug": "dental-hygienists-technicians-and-therapists",
+    "title": "Dental Hygienists, Technicians and Therapists",
+    "exposure": 3,
+    "rationale": "Dental hygienists and technicians perform hands-on dental procedures and laboratory work. Physical patient contact and manual skill are essential."
+  },
+  {
+    "slug": "diversional-therapists",
+    "title": "Diversional Therapists",
+    "exposure": 3,
+    "rationale": "Diversional therapists engage clients in hands-on activities and personal interaction. The interpersonal and physical activity components provide strong protection."
+  },
+  {
+    "slug": "enrolled-and-mothercraft-nurses",
+    "title": "Enrolled and Mothercraft Nurses",
+    "exposure": 3,
+    "rationale": "Enrolled nurses provide hands-on patient care including medication administration, wound care, and monitoring. Physical presence and caring skills are essential."
+  },
+  {
+    "slug": "indigenous-health-workers",
+    "title": "Indigenous Health Workers",
+    "exposure": 3,
+    "rationale": "Indigenous health workers provide culturally specific health services requiring community trust, cultural knowledge, and personal relationships."
+  },
+  {
+    "slug": "massage-therapists",
+    "title": "Massage Therapists",
+    "exposure": 2,
+    "rationale": "Massage therapists provide hands-on physical treatments. The manual, tactile nature of the work provides very strong protection from AI."
+  },
+  {
+    "slug": "welfare-support-workers",
+    "title": "Welfare Support Workers",
+    "exposure": 3,
+    "rationale": "Welfare support workers provide direct client support, advocacy, and practical assistance. The interpersonal and community-based work is strongly protected."
+  },
+  {
+    "slug": "child-carers",
+    "title": "Child Carers",
+    "exposure": 2,
+    "rationale": "Child carers provide hands-on supervision, care, and education for young children. Physical presence, safety supervision, and emotional nurturing are essential human tasks."
+  },
+  {
+    "slug": "education-aides",
+    "title": "Education Aides",
+    "exposure": 3,
+    "rationale": "Education aides support teachers with hands-on student assistance, classroom management, and individual student support."
+  },
+  {
+    "slug": "aged-and-disabled-carers",
+    "title": "Aged and Disabled Carers",
+    "exposure": 2,
+    "rationale": "Aged and disabled carers provide hands-on personal care \u2014 bathing, dressing, feeding, mobility assistance. Physical caring work with strong protection."
+  },
+  {
+    "slug": "dental-assistants",
+    "title": "Dental Assistants",
+    "exposure": 3,
+    "rationale": "Dental assistants provide hands-on chairside assistance during dental procedures. Physical presence and manual dexterity are essential."
+  },
+  {
+    "slug": "nursing-support-and-personal-care-workers",
+    "title": "Nursing Support and Personal Care Workers",
+    "exposure": 2,
+    "rationale": "Nursing support workers provide hands-on patient care \u2014 personal hygiene, mobility, feeding. Physical caring work that is strongly protected."
+  },
+  {
+    "slug": "special-care-workers",
+    "title": "Special Care Workers",
+    "exposure": 2,
+    "rationale": "Special care workers provide hands-on support for people with disabilities or challenging behaviours in residential and community settings."
+  },
+  {
+    "slug": "bar-attendants-and-baristas",
+    "title": "Bar Attendants and Baristas",
+    "exposure": 2,
+    "rationale": "Bar attendants and baristas prepare drinks and serve customers. Physical food/beverage preparation and face-to-face customer interaction provide strong protection."
+  },
+  {
+    "slug": "cafe-workers",
+    "title": "Cafe Workers",
+    "exposure": 2,
+    "rationale": "Cafe workers prepare food and serve customers. Hands-on food preparation and customer service in physical environments."
+  },
+  {
+    "slug": "gaming-workers",
+    "title": "Gaming Workers",
+    "exposure": 5,
+    "rationale": "Gaming workers operate gaming machines and tables. Some tasks are automatable, but floor supervision and customer interaction require presence."
+  },
+  {
+    "slug": "hotel-service-managers",
+    "title": "Hotel Service Managers",
+    "exposure": 4,
+    "rationale": "Hotel service managers combine guest-facing service (physical presence) with operational coordination (partially AI-augmentable)."
+  },
+  {
+    "slug": "waiters",
+    "title": "Waiters",
+    "exposure": 2,
+    "rationale": "Waiters serve food and beverages, requiring physical presence, customer interaction, and real-time responsiveness."
+  },
+  {
+    "slug": "other-hospitality-workers",
+    "title": "Other Hospitality Workers",
+    "exposure": 2,
+    "rationale": "Other hospitality workers perform hands-on food service, cleaning, and customer interaction tasks."
+  },
+  {
+    "slug": "defence-force-members---other-ranks",
+    "title": "Defence Force Members - Other Ranks",
+    "exposure": 2,
+    "rationale": "Defence force members perform physical military duties in varied and unpredictable environments. Hands-on skills and physical presence are essential."
+  },
+  {
+    "slug": "fire-and-emergency-workers",
+    "title": "Fire and Emergency Workers",
+    "exposure": 2,
+    "rationale": "Fire and emergency workers respond to emergencies requiring physical courage, hands-on rescue skills, and real-time decision-making in dangerous environments."
+  },
+  {
+    "slug": "police",
+    "title": "Police",
+    "exposure": 3,
+    "rationale": "Police officers perform patrol, investigation, and community engagement requiring physical presence, interpersonal skills, and real-time judgement. AI assists with data analysis but not frontline policing."
+  },
+  {
+    "slug": "prison-officers",
+    "title": "Prison Officers",
+    "exposure": 2,
+    "rationale": "Prison officers supervise inmates in custodial settings requiring physical presence, security awareness, and interpersonal management."
+  },
+  {
+    "slug": "security-officers-and-guards",
+    "title": "Security Officers and Guards",
+    "exposure": 2,
+    "rationale": "Security officers and guards provide physical security through presence, patrol, and access control. Human presence is the core function."
+  },
+  {
+    "slug": "beauty-therapists",
+    "title": "Beauty Therapists",
+    "exposure": 2,
+    "rationale": "Beauty therapists provide hands-on treatments \u2014 facials, waxing, skin care. Physical, manual work with strong protection."
+  },
+  {
+    "slug": "driving-instructors",
+    "title": "Driving Instructors",
+    "exposure": 2,
+    "rationale": "Driving instructors teach in-vehicle \u2014 requiring physical presence, real-time instruction, and adaptation to traffic conditions."
+  },
+  {
+    "slug": "funeral-workers",
+    "title": "Funeral Workers",
+    "exposure": 2,
+    "rationale": "Funeral workers provide physical services \u2014 body preparation, ceremony management, and family support requiring empathy and presence."
+  },
+  {
+    "slug": "gallery-museum-and-tour-guides",
+    "title": "Gallery, Museum and Tour Guides",
+    "exposure": 3,
+    "rationale": "Gallery, museum, and tour guides provide in-person interpretation and engagement. While AI audio guides exist, human interaction and storytelling add value."
+  },
+  {
+    "slug": "personal-care-consultants",
+    "title": "Personal Care Consultants",
+    "exposure": 4,
+    "rationale": "Personal care consultants provide beauty and skincare advice. Online AI recommendations are growing, but in-person consultations and product demonstrations remain valued."
+  },
+  {
+    "slug": "tourism-and-travel-advisers",
+    "title": "Tourism and Travel Advisers",
+    "exposure": 7,
+    "rationale": "Tourism and travel advisers perform largely digital work \u2014 researching destinations, booking travel, and comparing options. Online booking platforms and AI assistants are rapidly displacing this role."
+  },
+  {
+    "slug": "travel-attendants",
+    "title": "Travel Attendants",
+    "exposure": 2,
+    "rationale": "Travel attendants (flight attendants, etc.) provide in-flight/in-transit passenger service requiring physical presence, safety duties, and customer care."
+  },
+  {
+    "slug": "other-personal-service-workers",
+    "title": "Other Personal Service Workers",
+    "exposure": 3,
+    "rationale": "Other personal service workers typically provide hands-on services requiring physical presence and interpersonal interaction."
+  },
+  {
+    "slug": "fitness-instructors",
+    "title": "Fitness Instructors",
+    "exposure": 2,
+    "rationale": "Fitness instructors lead physical exercise sessions requiring demonstration, motivation, and real-time form correction. Physical presence and interpersonal energy are essential."
+  },
+  {
+    "slug": "outdoor-adventure-guides",
+    "title": "Outdoor Adventure Guides",
+    "exposure": 1,
+    "rationale": "Outdoor adventure guides lead physical activities in natural environments \u2014 unpredictable terrain, weather, and safety management. Very strongly protected."
+  },
+  {
+    "slug": "sports-coaches-instructors-and-officials",
+    "title": "Sports Coaches, Instructors and Officials",
+    "exposure": 2,
+    "rationale": "Sports coaches provide in-person physical training, technique instruction, and motivational leadership. The physical and interpersonal elements provide strong protection."
+  },
+  {
+    "slug": "sportspersons",
+    "title": "Sportspersons",
+    "exposure": 1,
+    "rationale": "Sportspersons compete physically in athletic events. The physical performance is inherently human and cannot be replaced by AI."
+  },
+  {
+    "slug": "contract-program-and-project-administrators",
+    "title": "Contract, Program and Project Administrators",
+    "exposure": 8,
+    "rationale": "Contract and project administrators perform digital documentation, scheduling, tracking, and reporting. AI project management tools are rapidly advancing."
+  },
+  {
+    "slug": "office-managers",
+    "title": "Office Managers",
+    "exposure": 7,
+    "rationale": "Office managers coordinate administrative functions \u2014 scheduling, correspondence, filing \u2014 predominantly digital tasks increasingly augmented by AI."
+  },
+  {
+    "slug": "practice-managers",
+    "title": "Practice Managers",
+    "exposure": 7,
+    "rationale": "Practice managers handle scheduling, billing, and administrative coordination \u2014 largely digital workflow management that AI can significantly augment."
+  },
+  {
+    "slug": "personal-assistants",
+    "title": "Personal Assistants",
+    "exposure": 8,
+    "rationale": "Personal assistants manage calendars, correspondence, travel, and documents \u2014 predominantly digital tasks where AI assistants are rapidly improving."
+  },
+  {
+    "slug": "secretaries",
+    "title": "Secretaries",
+    "exposure": 9,
+    "rationale": "Secretaries perform typing, correspondence, filing, and scheduling \u2014 routine digital tasks that AI can already handle at high quality."
+  },
+  {
+    "slug": "general-clerks",
+    "title": "General Clerks",
+    "exposure": 8,
+    "rationale": "General clerks perform routine administrative tasks \u2014 data entry, filing, correspondence, and record-keeping. These routine digital tasks are highly automatable."
+  },
+  {
+    "slug": "keyboard-operators",
+    "title": "Keyboard Operators",
+    "exposure": 10,
+    "rationale": "Keyboard operators perform data entry and typing \u2014 routine, fully digital tasks that AI can already do faster and more accurately."
+  },
+  {
+    "slug": "call-or-contact-centre-workers",
+    "title": "Call or Contact Centre Workers",
+    "exposure": 9,
+    "rationale": "Call or contact centre workers handle customer queries by phone/chat. AI chatbots and voice systems are already replacing many of these functions."
+  },
+  {
+    "slug": "information-officers",
+    "title": "Information Officers",
+    "exposure": 7,
+    "rationale": "Information officers provide information to the public \u2014 increasingly done through AI chatbots, automated systems, and self-service portals."
+  },
+  {
+    "slug": "receptionists",
+    "title": "Receptionists",
+    "exposure": 7,
+    "rationale": "Receptionists greet visitors, manage calls, and coordinate bookings. Automated systems handle many of these functions, though some physical presence value remains."
+  },
+  {
+    "slug": "accounting-clerks",
+    "title": "Accounting Clerks",
+    "exposure": 9,
+    "rationale": "Accounting clerks perform routine financial data entry, invoicing, and reconciliation \u2014 digital tasks highly suited to AI automation."
+  },
+  {
+    "slug": "bookkeepers",
+    "title": "Bookkeepers",
+    "exposure": 8,
+    "rationale": "Bookkeepers maintain financial records, process transactions, and reconcile accounts \u2014 routine digital tasks increasingly automated by accounting software and AI."
+  },
+  {
+    "slug": "payroll-clerks",
+    "title": "Payroll Clerks",
+    "exposure": 9,
+    "rationale": "Payroll clerks process payroll, calculate deductions, and maintain records \u2014 routine digital processing highly suited to automation."
+  },
+  {
+    "slug": "bank-workers",
+    "title": "Bank Workers",
+    "exposure": 8,
+    "rationale": "Bank workers process transactions, manage accounts, and handle customer queries \u2014 largely automated through digital banking and AI."
+  },
+  {
+    "slug": "credit-and-loans-officers",
+    "title": "Credit and Loans Officers",
+    "exposure": 7,
+    "rationale": "Credit and loans officers assess applications and process loans. AI credit scoring and automated assessment are advancing, though complex cases require human judgement."
+  },
+  {
+    "slug": "insurance-money-market-and-statistical-clerks",
+    "title": "Insurance, Money Market and Statistical Clerks",
+    "exposure": 8,
+    "rationale": "Insurance, money market, and statistical clerks perform routine data processing and record-keeping in financial services \u2014 highly automatable digital tasks."
+  },
+  {
+    "slug": "betting-clerks",
+    "title": "Betting Clerks",
+    "exposure": 8,
+    "rationale": "Betting clerks process bets and calculate payouts \u2014 routine digital transactions increasingly automated."
+  },
+  {
+    "slug": "couriers-and-postal-deliverers",
+    "title": "Couriers and Postal Deliverers",
+    "exposure": 2,
+    "rationale": "Couriers and postal deliverers perform physical delivery work requiring navigation, vehicle operation, and package handling. While drones and autonomous vehicles are emerging, human delivery remains dominant."
+  },
+  {
+    "slug": "filing-and-registry-clerks",
+    "title": "Filing and Registry Clerks",
+    "exposure": 9,
+    "rationale": "Filing and registry clerks organise and retrieve physical and digital records \u2014 routine tasks that digital systems and AI can largely automate."
+  },
+  {
+    "slug": "mail-sorters",
+    "title": "Mail Sorters",
+    "exposure": 9,
+    "rationale": "Mail sorters sort and distribute mail \u2014 routine physical/digital sorting tasks increasingly automated."
+  },
+  {
+    "slug": "survey-interviewers",
+    "title": "Survey Interviewers",
+    "exposure": 8,
+    "rationale": "Survey interviewers collect data through structured questions \u2014 a task AI can perform through digital surveys, chatbots, and automated calling."
+  },
+  {
+    "slug": "switchboard-operators",
+    "title": "Switchboard Operators",
+    "exposure": 10,
+    "rationale": "Switchboard operators route telephone calls \u2014 a function almost entirely automated by modern phone systems and AI."
+  },
+  {
+    "slug": "other-clerical-and-office-support-workers",
+    "title": "Other Clerical and Office Support Workers",
+    "exposure": 8,
+    "rationale": "Other clerical support workers perform routine digital administrative tasks \u2014 filing, data entry, correspondence \u2014 highly automatable."
+  },
+  {
+    "slug": "purchasing-and-supply-logistics-clerks",
+    "title": "Purchasing and Supply Logistics Clerks",
+    "exposure": 7,
+    "rationale": "Purchasing and supply clerks process orders, manage inventory, and coordinate logistics \u2014 increasingly automated through AI-powered procurement systems."
+  },
+  {
+    "slug": "transport-and-despatch-clerks",
+    "title": "Transport and Despatch Clerks",
+    "exposure": 6,
+    "rationale": "Transport and despatch clerks coordinate shipments and logistics. While digital coordination is AI-augmentable, physical warehouse presence may be required."
+  },
+  {
+    "slug": "conveyancers-and-legal-executives",
+    "title": "Conveyancers and Legal Executives",
+    "exposure": 8,
+    "rationale": "Conveyancers and legal executives perform document preparation, searches, and legal administration \u2014 routine legal tasks where AI is already making inroads."
+  },
+  {
+    "slug": "court-and-legal-clerks",
+    "title": "Court and Legal Clerks",
+    "exposure": 8,
+    "rationale": "Court and legal clerks manage case files, prepare documents, and maintain records \u2014 predominantly digital legal administration highly suited to AI."
+  },
+  {
+    "slug": "debt-collectors",
+    "title": "Debt Collectors",
+    "exposure": 7,
+    "rationale": "Debt collectors contact debtors and negotiate payments. AI-powered automated calling and messaging systems are increasingly used, though complex negotiations remain human."
+  },
+  {
+    "slug": "human-resource-clerks",
+    "title": "Human Resource Clerks",
+    "exposure": 8,
+    "rationale": "Human resource clerks process HR paperwork, maintain records, and handle routine queries \u2014 digital administrative tasks highly suited to AI automation."
+  },
+  {
+    "slug": "inspectors-and-regulatory-officers",
+    "title": "Inspectors and Regulatory Officers",
+    "exposure": 4,
+    "rationale": "Inspectors and regulatory officers perform physical inspections and compliance checks requiring on-site presence. Report writing is AI-augmentable but physical inspection is protected."
+  },
+  {
+    "slug": "insurance-investigators-loss-adjusters-and-risk-surveyors",
+    "title": "Insurance Investigators, Loss Adjusters and Risk Surveyors",
+    "exposure": 5,
+    "rationale": "Insurance investigators combine field investigation (physical presence) with digital analysis and report writing."
+  },
+  {
+    "slug": "library-assistants",
+    "title": "Library Assistants",
+    "exposure": 7,
+    "rationale": "Library assistants manage collections, process loans, and assist patrons \u2014 tasks increasingly automated through digital library systems and AI search."
+  },
+  {
+    "slug": "other-miscellaneous-clerical-and-administrative-workers",
+    "title": "Other Miscellaneous Clerical and Administrative Workers",
+    "exposure": 7,
+    "rationale": "Other miscellaneous clerical workers perform routine digital administrative tasks."
+  },
+  {
+    "slug": "auctioneers-and-stock-and-station-agents",
+    "title": "Auctioneers, and Stock and Station Agents",
+    "exposure": 5,
+    "rationale": "Auctioneers and stock agents combine in-person auctioneering (requiring presence and performance) with market analysis and client relationships."
+  },
+  {
+    "slug": "insurance-agents",
+    "title": "Insurance Agents",
+    "exposure": 7,
+    "rationale": "Insurance agents sell policies and provide advice \u2014 increasingly done through comparison websites, AI recommendations, and automated underwriting."
+  },
+  {
+    "slug": "sales-representatives",
+    "title": "Sales Representatives",
+    "exposure": 6,
+    "rationale": "Sales representatives combine relationship building and in-person client visits with digital communication and proposal preparation (AI-augmentable)."
+  },
+  {
+    "slug": "real-estate-sales-agents",
+    "title": "Real Estate Sales Agents",
+    "exposure": 5,
+    "rationale": "Real estate agents combine property inspections and buyer/seller meetings (physical) with market analysis and marketing (increasingly AI-augmentable)."
+  },
+  {
+    "slug": "sales-assistants-general",
+    "title": "Sales Assistants (General)",
+    "exposure": 3,
+    "rationale": "Retail sales assistants provide in-store customer service, product advice, and transaction processing. Physical presence and interpersonal service remain important despite self-checkout growth."
+  },
+  {
+    "slug": "ict-sales-assistants",
+    "title": "ICT Sales Assistants",
+    "exposure": 5,
+    "rationale": "ICT sales assistants combine technical product knowledge with in-store customer service. Online shopping and AI recommendations reduce but don't eliminate the need."
+  },
+  {
+    "slug": "motor-vehicle-and-vehicle-parts-salespersons",
+    "title": "Motor Vehicle and Vehicle Parts Salespersons",
+    "exposure": 4,
+    "rationale": "Motor vehicle salespersons provide in-person vehicle demonstrations, negotiations, and customer service. The high-value, physical product requires human interaction."
+  },
+  {
+    "slug": "pharmacy-sales-assistants",
+    "title": "Pharmacy Sales Assistants",
+    "exposure": 3,
+    "rationale": "Pharmacy sales assistants provide in-person customer service and product advice in a health retail environment requiring human interaction."
+  },
+  {
+    "slug": "retail-supervisors",
+    "title": "Retail Supervisors",
+    "exposure": 4,
+    "rationale": "Retail supervisors oversee store operations and staff \u2014 requiring physical presence while administrative tasks are AI-augmentable."
+  },
+  {
+    "slug": "service-station-attendants",
+    "title": "Service Station Attendants",
+    "exposure": 2,
+    "rationale": "Service station attendants provide physical fuel service, shop sales, and site maintenance. Physical presence is essential."
+  },
+  {
+    "slug": "street-vendors-and-related-salespersons",
+    "title": "Street Vendors and Related Salespersons",
+    "exposure": 2,
+    "rationale": "Street vendors operate in physical outdoor environments requiring presence, customer interaction, and manual food/goods handling."
+  },
+  {
+    "slug": "other-sales-assistants-and-salespersons",
+    "title": "Other Sales Assistants and Salespersons",
+    "exposure": 4,
+    "rationale": "Other sales assistants provide in-person customer service with varying degrees of digital support."
+  },
+  {
+    "slug": "checkout-operators-and-office-cashiers",
+    "title": "Checkout Operators and Office Cashiers",
+    "exposure": 6,
+    "rationale": "Checkout operators process transactions \u2014 increasingly automated through self-checkout and contactless payment. Some customer interaction value remains."
+  },
+  {
+    "slug": "models-and-sales-demonstrators",
+    "title": "Models and Sales Demonstrators",
+    "exposure": 3,
+    "rationale": "Models and sales demonstrators provide physical product demonstrations and presentations requiring human presence."
+  },
+  {
+    "slug": "retail-and-wool-buyers",
+    "title": "Retail and Wool Buyers",
+    "exposure": 6,
+    "rationale": "Retail and wool buyers perform market analysis, price negotiation, and supply assessment \u2014 increasingly AI-augmentable through data analytics."
+  },
+  {
+    "slug": "telemarketers",
+    "title": "Telemarketers",
+    "exposure": 9,
+    "rationale": "Telemarketers make outbound sales calls \u2014 a function increasingly performed by AI-powered calling systems and chatbots."
+  },
+  {
+    "slug": "ticket-salespersons",
+    "title": "Ticket Salespersons",
+    "exposure": 7,
+    "rationale": "Ticket salespersons sell tickets for events and transport \u2014 largely automated through online booking platforms."
+  },
+  {
+    "slug": "visual-merchandisers",
+    "title": "Visual Merchandisers",
+    "exposure": 6,
+    "rationale": "Visual merchandisers design retail displays. AI-powered design tools are advancing, though physical installation requires presence."
+  },
+  {
+    "slug": "other-sales-support-workers",
+    "title": "Other Sales Support Workers",
+    "exposure": 5,
+    "rationale": "Other sales support workers perform various sales-related tasks with varying digital exposure."
+  },
+  {
+    "slug": "clay-concrete-glass-and-stone-processing-machine-operators",
+    "title": "Clay, Concrete, Glass and Stone Processing Machine Operators",
+    "exposure": 2,
+    "rationale": "Machine operators in manufacturing operate physical processing equipment requiring presence, monitoring, and manual adjustment."
+  },
+  {
+    "slug": "industrial-spraypainters",
+    "title": "Industrial Spraypainters",
+    "exposure": 2,
+    "rationale": "Industrial spraypainters operate painting equipment in manufacturing environments. Physical operation and quality control require presence."
+  },
+  {
+    "slug": "paper-and-wood-processing-machine-operators",
+    "title": "Paper and Wood Processing Machine Operators",
+    "exposure": 2,
+    "rationale": "Paper and wood processing machine operators run physical production equipment requiring hands-on operation and monitoring."
+  },
+  {
+    "slug": "photographic-developers-and-printers",
+    "title": "Photographic Developers and Printers",
+    "exposure": 4,
+    "rationale": "Photographic developers and printers operate increasingly digital workflows. Traditional darkroom work is declining as digital processing and AI image tools advance."
+  },
+  {
+    "slug": "plastics-and-rubber-production-machine-operators",
+    "title": "Plastics and Rubber Production Machine Operators",
+    "exposure": 2,
+    "rationale": "Plastics and rubber machine operators run physical production equipment requiring hands-on operation, monitoring, and adjustment."
+  },
+  {
+    "slug": "sewing-machinists",
+    "title": "Sewing Machinists",
+    "exposure": 2,
+    "rationale": "Sewing machinists operate industrial sewing machines. Physical garment production requiring manual skill and machine operation."
+  },
+  {
+    "slug": "textile-and-footwear-production-machine-operators",
+    "title": "Textile and Footwear Production Machine Operators",
+    "exposure": 2,
+    "rationale": "Textile and footwear machine operators run physical production equipment in manufacturing environments."
+  },
+  {
+    "slug": "other-machine-operators",
+    "title": "Other Machine Operators",
+    "exposure": 2,
+    "rationale": "Other machine operators run various physical production equipment requiring presence and manual operation."
+  },
+  {
+    "slug": "crane-hoist-and-lift-operators",
+    "title": "Crane, Hoist and Lift Operators",
+    "exposure": 2,
+    "rationale": "Crane, hoist, and lift operators control heavy lifting equipment requiring real-time spatial judgement and safety awareness. Physical presence is essential."
+  },
+  {
+    "slug": "drillers-miners-and-shot-firers",
+    "title": "Drillers, Miners and Shot Firers",
+    "exposure": 1,
+    "rationale": "Drillers, miners, and shot firers work in underground and surface mining environments requiring physical presence in challenging, dangerous conditions."
+  },
+  {
+    "slug": "engineering-production-workers",
+    "title": "Engineering Production Workers",
+    "exposure": 3,
+    "rationale": "Engineering production workers operate machinery and perform assembly tasks. Some automation exists but human oversight and manual work remain essential."
+  },
+  {
+    "slug": "other-stationary-plant-operators",
+    "title": "Other Stationary Plant Operators",
+    "exposure": 2,
+    "rationale": "Other stationary plant operators monitor and control fixed industrial equipment requiring physical presence."
+  },
+  {
+    "slug": "agricultural-forestry-and-horticultural-plant-operators",
+    "title": "Agricultural, Forestry and Horticultural Plant Operators",
+    "exposure": 2,
+    "rationale": "Agricultural plant operators operate tractors and farm machinery in varied outdoor conditions. GPS and automation assist but physical operation remains essential."
+  },
+  {
+    "slug": "earthmoving-plant-operators",
+    "title": "Earthmoving Plant Operators",
+    "exposure": 2,
+    "rationale": "Earthmoving plant operators operate heavy equipment (excavators, bulldozers) in construction and mining. Physical operation in varied terrain requires human presence."
+  },
+  {
+    "slug": "forklift-drivers",
+    "title": "Forklift Drivers",
+    "exposure": 2,
+    "rationale": "Forklift drivers operate forklifts in warehouses and worksites. While warehouse automation grows, human forklift operation remains widespread."
+  },
+  {
+    "slug": "other-mobile-plant-operators",
+    "title": "Other Mobile Plant Operators",
+    "exposure": 2,
+    "rationale": "Other mobile plant operators control various mobile equipment requiring physical operation skills."
+  },
+  {
+    "slug": "automobile-drivers",
+    "title": "Automobile Drivers",
+    "exposure": 3,
+    "rationale": "Automobile drivers (taxi, rideshare) transport passengers. Autonomous vehicles are developing but remain limited; human driving is still dominant."
+  },
+  {
+    "slug": "bus-and-coach-drivers",
+    "title": "Bus and Coach Drivers",
+    "exposure": 2,
+    "rationale": "Bus and coach drivers transport passengers on fixed routes. While autonomous bus trials exist, human drivers remain essential for safety and passenger assistance."
+  },
+  {
+    "slug": "train-and-tram-drivers",
+    "title": "Train and Tram Drivers",
+    "exposure": 3,
+    "rationale": "Train and tram drivers operate rail vehicles. Automated trains exist on some systems, but most still require human operators for safety."
+  },
+  {
+    "slug": "delivery-drivers",
+    "title": "Delivery Drivers",
+    "exposure": 3,
+    "rationale": "Delivery drivers transport goods. Autonomous delivery is emerging but human drivers dominate, especially for varied delivery environments."
+  },
+  {
+    "slug": "truck-drivers",
+    "title": "Truck Drivers",
+    "exposure": 2,
+    "rationale": "Truck drivers transport goods over long distances. While autonomous trucking is developing, human drivers remain essential for complex road conditions and loading/unloading."
+  },
+  {
+    "slug": "storepersons",
+    "title": "Storepersons",
+    "exposure": 3,
+    "rationale": "Storepersons receive, store, and dispatch goods in warehouses. Warehouse automation is growing but human workers remain essential for varied tasks."
+  },
+  {
+    "slug": "car-detailers",
+    "title": "Car Detailers",
+    "exposure": 1,
+    "rationale": "Car detailers perform hands-on vehicle cleaning and polishing. Manual physical work with strong protection."
+  },
+  {
+    "slug": "commercial-cleaners",
+    "title": "Commercial Cleaners",
+    "exposure": 1,
+    "rationale": "Commercial cleaners clean buildings and facilities. Physical manual work requiring presence and adaptation to varied environments."
+  },
+  {
+    "slug": "domestic-cleaners",
+    "title": "Domestic Cleaners",
+    "exposure": 1,
+    "rationale": "Domestic cleaners clean private homes. Physical work requiring manual skill and adaptation to varied environments."
+  },
+  {
+    "slug": "housekeepers",
+    "title": "Housekeepers",
+    "exposure": 1,
+    "rationale": "Housekeepers maintain cleanliness and order in accommodation. Physical work requiring presence and manual skills."
+  },
+  {
+    "slug": "laundry-workers",
+    "title": "Laundry Workers",
+    "exposure": 1,
+    "rationale": "Laundry workers process garments and linens. Physical handling work, though some industrial laundry processes are automated."
+  },
+  {
+    "slug": "other-cleaners",
+    "title": "Other Cleaners",
+    "exposure": 1,
+    "rationale": "Other cleaners perform various physical cleaning tasks. Manual work with strong protection."
+  },
+  {
+    "slug": "building-and-plumbing-labourers",
+    "title": "Building and Plumbing Labourers",
+    "exposure": 1,
+    "rationale": "Building and plumbing labourers perform heavy physical construction work. Manual labour in varied site conditions."
+  },
+  {
+    "slug": "concreters",
+    "title": "Concreters",
+    "exposure": 1,
+    "rationale": "Concreters prepare and pour concrete. Heavy physical work requiring manual skill and site presence."
+  },
+  {
+    "slug": "fencers",
+    "title": "Fencers",
+    "exposure": 1,
+    "rationale": "Fencers install and repair fences. Physical outdoor work requiring manual skills."
+  },
+  {
+    "slug": "insulation-and-home-improvement-installers",
+    "title": "Insulation and Home Improvement Installers",
+    "exposure": 1,
+    "rationale": "Insulation and home improvement installers perform hands-on installation work. Physical trade assistance."
+  },
+  {
+    "slug": "paving-and-surfacing-labourers",
+    "title": "Paving and Surfacing Labourers",
+    "exposure": 1,
+    "rationale": "Paving and surfacing labourers perform heavy physical road and path construction."
+  },
+  {
+    "slug": "railway-track-workers",
+    "title": "Railway Track Workers",
+    "exposure": 1,
+    "rationale": "Railway track workers maintain and construct rail infrastructure. Physical outdoor work in challenging conditions."
+  },
+  {
+    "slug": "structural-steel-construction-workers",
+    "title": "Structural Steel Construction Workers",
+    "exposure": 1,
+    "rationale": "Structural steel construction workers erect steel frameworks. Heavy physical work at heights."
+  },
+  {
+    "slug": "other-construction-and-mining-labourers",
+    "title": "Other Construction and Mining Labourers",
+    "exposure": 1,
+    "rationale": "Other construction and mining labourers perform heavy physical work in varied conditions."
+  },
+  {
+    "slug": "food-and-drink-factory-workers",
+    "title": "Food and Drink Factory Workers",
+    "exposure": 1,
+    "rationale": "Food and drink factory workers perform hands-on food processing. Physical production work, though some factory processes are automated."
+  },
+  {
+    "slug": "meat-boners-and-slicers-and-slaughterers",
+    "title": "Meat Boners and Slicers, and Slaughterers",
+    "exposure": 1,
+    "rationale": "Meat boners and slicers perform hands-on meat cutting requiring physical skill and speed."
+  },
+  {
+    "slug": "meat-poultry-and-seafood-process-workers",
+    "title": "Meat, Poultry and Seafood Process Workers",
+    "exposure": 1,
+    "rationale": "Meat, poultry, and seafood process workers perform physical food processing tasks."
+  },
+  {
+    "slug": "packers",
+    "title": "Packers",
+    "exposure": 1,
+    "rationale": "Packers manually package products for distribution. Physical handling work."
+  },
+  {
+    "slug": "product-assemblers",
+    "title": "Product Assemblers",
+    "exposure": 2,
+    "rationale": "Product assemblers assemble manufactured goods. Some assembly is automated but many tasks require manual dexterity."
+  },
+  {
+    "slug": "metal-engineering-process-workers",
+    "title": "Metal Engineering Process Workers",
+    "exposure": 2,
+    "rationale": "Metal engineering process workers assist in metal manufacturing. Physical production work with some machine operation."
+  },
+  {
+    "slug": "plastics-and-rubber-factory-workers",
+    "title": "Plastics and Rubber Factory Workers",
+    "exposure": 2,
+    "rationale": "Plastics and rubber factory workers perform physical production tasks."
+  },
+  {
+    "slug": "product-quality-controllers",
+    "title": "Product Quality Controllers",
+    "exposure": 3,
+    "rationale": "Product quality controllers inspect manufactured goods. AI-powered visual inspection is advancing, but physical handling and assessment remain important."
+  },
+  {
+    "slug": "timber-and-wood-process-workers",
+    "title": "Timber and Wood Process Workers",
+    "exposure": 1,
+    "rationale": "Timber and wood process workers perform physical wood processing tasks."
+  },
+  {
+    "slug": "other-factory-process-workers",
+    "title": "Other Factory Process Workers",
+    "exposure": 2,
+    "rationale": "Other factory process workers perform various physical production tasks."
+  },
+  {
+    "slug": "aquaculture-workers",
+    "title": "Aquaculture Workers",
+    "exposure": 1,
+    "rationale": "Aquaculture workers perform physical work with fish and aquatic stock in outdoor/water environments."
+  },
+  {
+    "slug": "crop-farm-workers",
+    "title": "Crop Farm Workers",
+    "exposure": 1,
+    "rationale": "Crop farm workers perform physical agricultural labour \u2014 planting, weeding, harvesting."
+  },
+  {
+    "slug": "forestry-and-logging-workers",
+    "title": "Forestry and Logging Workers",
+    "exposure": 1,
+    "rationale": "Forestry and logging workers perform physical work in remote forest environments. Heavy manual work with strong protection."
+  },
+  {
+    "slug": "garden-and-nursery-labourers",
+    "title": "Garden and Nursery Labourers",
+    "exposure": 1,
+    "rationale": "Garden and nursery labourers perform physical horticultural work \u2014 digging, planting, watering."
+  },
+  {
+    "slug": "livestock-farm-workers",
+    "title": "Livestock Farm Workers",
+    "exposure": 1,
+    "rationale": "Livestock farm workers perform physical animal husbandry tasks \u2014 feeding, mustering, fencing."
+  },
+  {
+    "slug": "mixed-crop-and-livestock-farm-workers",
+    "title": "Mixed Crop and Livestock Farm Workers",
+    "exposure": 1,
+    "rationale": "Mixed crop and livestock farm workers perform varied physical agricultural labour."
+  },
+  {
+    "slug": "other-farm-forestry-and-garden-workers",
+    "title": "Other Farm, Forestry and Garden Workers",
+    "exposure": 1,
+    "rationale": "Other farm, forestry, and garden workers perform physical outdoor agricultural work."
+  },
+  {
+    "slug": "fast-food-cooks",
+    "title": "Fast Food Cooks",
+    "exposure": 1,
+    "rationale": "Fast food cooks prepare food quickly in commercial kitchens. Physical, fast-paced manual work."
+  },
+  {
+    "slug": "food-trades-assistants",
+    "title": "Food Trades Assistants",
+    "exposure": 1,
+    "rationale": "Food trades assistants support food preparation. Physical kitchen work."
+  },
+  {
+    "slug": "kitchenhands",
+    "title": "Kitchenhands",
+    "exposure": 1,
+    "rationale": "Kitchenhands wash dishes, clean kitchens, and assist with food preparation. Physical manual work."
+  },
+  {
+    "slug": "freight-and-furniture-handlers",
+    "title": "Freight and Furniture Handlers",
+    "exposure": 1,
+    "rationale": "Freight and furniture handlers load, unload, and move heavy items. Physical manual labour."
+  },
+  {
+    "slug": "shelf-fillers",
+    "title": "Shelf Fillers",
+    "exposure": 2,
+    "rationale": "Shelf fillers stock shelves in retail environments. Physical work, though some warehouse automation is emerging."
+  },
+  {
+    "slug": "caretakers",
+    "title": "Caretakers",
+    "exposure": 1,
+    "rationale": "Caretakers maintain buildings and grounds. Physical maintenance work requiring presence."
+  },
+  {
+    "slug": "deck-and-fishing-hands",
+    "title": "Deck and Fishing Hands",
+    "exposure": 1,
+    "rationale": "Deck and fishing hands work on vessels performing physical tasks in marine environments. Physically demanding outdoor work."
+  },
+  {
+    "slug": "handypersons",
+    "title": "Handypersons",
+    "exposure": 1,
+    "rationale": "Handypersons perform various physical repair and maintenance tasks in buildings."
+  },
+  {
+    "slug": "motor-vehicle-parts-and-accessories-fitters",
+    "title": "Motor Vehicle Parts and Accessories Fitters",
+    "exposure": 2,
+    "rationale": "Motor vehicle parts fitters install vehicle parts and accessories. Hands-on physical work."
+  },
+  {
+    "slug": "printing-assistants-and-table-workers",
+    "title": "Printing Assistants and Table Workers",
+    "exposure": 3,
+    "rationale": "Printing assistants operate printing machinery. Some print production is digitally streamlined, but physical machine operation remains."
+  },
+  {
+    "slug": "recycling-and-rubbish-collectors",
+    "title": "Recycling and Rubbish Collectors",
+    "exposure": 1,
+    "rationale": "Recycling and rubbish collectors perform physical waste collection and sorting in varied outdoor conditions."
+  },
+  {
+    "slug": "vending-machine-attendants",
+    "title": "Vending Machine Attendants",
+    "exposure": 2,
+    "rationale": "Vending machine attendants stock and maintain vending machines. Physical routine work."
+  },
+  {
+    "slug": "other-miscellaneous-labourers",
+    "title": "Other Miscellaneous Labourers",
+    "exposure": 1,
+    "rationale": "Other miscellaneous labourers perform various physical manual tasks."
+  }
+]

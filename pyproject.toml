@@ -1,0 +1,14 @@
+[project]
+name = "aus-jobs"
+version = "0.1.0"
+description = "AI Exposure of the Australian Job Market"
+requires-python = ">=3.11"
+dependencies = [
+    "openpyxl>=3.1",
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.backends"
